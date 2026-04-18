@@ -29,7 +29,7 @@ public class TestGreeter {
 
   @Test
   public void greetShouldIncludeTheOneBeingGreeted() {
-    assertThat(False);
+    assertTrue(false);
   }
 
   @Test
